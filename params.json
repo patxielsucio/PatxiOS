@@ -1,0 +1,6 @@
+{
+  "name": "PatxiOS",
+  "tagline": "Open source Arduino miniOS",
+  "body": "\r\n### Welcome to PatxiOS.\r\nPatxiOS is an open source Arduino Based operating system made by a 13 years old maker \r\n\r\n### Materials to build PatxiGlass\r\n1. -Arduino pro mini x1\r\n1. -Oled screen 0.96 x1\r\n1. -Bluetooth module HC-05 x1\r\n1. -Wires x10\r\n1. -Mirror x1 \r\n1. -Acrillic plate x1\r\n1. -battery x1\r\n   \r\n\r\n\r\n\r\n\r\n   Code is life.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
